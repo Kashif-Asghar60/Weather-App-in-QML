@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/TestQT">/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_armeabi_v7a-Debug/TestQT</file>
+
+  </qresource>
+</RCC>

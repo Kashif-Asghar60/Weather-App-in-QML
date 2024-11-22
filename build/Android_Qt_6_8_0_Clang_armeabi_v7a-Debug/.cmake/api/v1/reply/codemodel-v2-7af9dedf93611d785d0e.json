@@ -1,0 +1,268 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-de628e49127cbc89961e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TestQT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_qt_internal_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_qt_internal_apk_dependencies-Debug-e6e9f0a55002d868f747.json",
+					"name" : "_qt_internal_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aab-Debug-0aca1591fd389e0379b8.json",
+					"name" : "aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aar-Debug-75e74ed8c13d57db0677.json",
+					"name" : "aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-9ef59918ff46f4766396.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-982cf340363c586eed82.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-c19489c3cbb4e0ec71dd.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-b09438d52f54050f110a.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-aeb7c86863565e4f7397.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk-Debug-b080ceff9074fad6ac31.json",
+					"name" : "apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk_all-Debug-4dcc934ef64b6568936f.json",
+					"name" : "apk_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT-Debug-8a68cddf06f1f135b690.json",
+					"name" : "appTestQT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT_autogen-Debug-44eb1336aa4b2782bbec.json",
+					"name" : "appTestQT_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT_autogen_timestamp_deps-Debug-d9069e22a2c50ef0fe4c.json",
+					"name" : "appTestQT_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT_make_aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT_make_aab-Debug-d16debd0d23751bf68c9.json",
+					"name" : "appTestQT_make_aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT_make_aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT_make_aar-Debug-b7b44695af572f1e95fe.json",
+					"name" : "appTestQT_make_aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT_make_apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT_make_apk-Debug-8e9e924b4af189997de7.json",
+					"name" : "appTestQT_make_apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT_prepare_apk_dir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT_prepare_apk_dir-Debug-6a57cc5dcbcad7096410.json",
+					"name" : "appTestQT_prepare_apk_dir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT_qmllint-Debug-4a10b1ae86d31205c592.json",
+					"name" : "appTestQT_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT_qmllint_json-Debug-23c99fb465cb298ebdc8.json",
+					"name" : "appTestQT_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT_qmllint_module-Debug-9d28e15b788b9eb78287.json",
+					"name" : "appTestQT_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT_qmltyperegistration-Debug-f023dd9d3e44e87bab88.json",
+					"name" : "appTestQT_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTestQT_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTestQT_tooling-Debug-8be8d75fbf2763fa187d.json",
+					"name" : "appTestQT_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appTestQT_aotstats_targets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appTestQT_aotstats_targets-Debug-eff322e78d9bbfc0ce66.json",
+					"name" : "module_appTestQT_aotstats_targets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_internal_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_internal_plugins-Debug-ccd0e18802320f477585.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_armeabi_v7a-Debug",
+		"source" : "/Users/kashifasghar/TestQT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

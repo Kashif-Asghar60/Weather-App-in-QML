@@ -1,0 +1,6 @@
+--resource
+/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/.qt/rcc/qmake_TestQT.qrc
+--resource
+/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/.qt/rcc/appTestQT_raw_qml_0.qrc
+/qt/qml/TestQT/Main.qml
+/qt/qml/TestQT/build/test2.qml

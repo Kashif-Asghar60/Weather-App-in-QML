@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "updateEffect",
+                        "line": 28
+                    }
+                ],
+                "filepath": "/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/WeatherEffects.qml"
+            }
+        ],
+        "moduleId": "TestQT(appTestQT)"
+    }
+]

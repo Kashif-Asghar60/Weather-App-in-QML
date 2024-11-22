@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appTestQT_FILE /Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_x86-Debug/libappTestQT_x86.so)
+set(__QT_DEPLOY_TARGET_appTestQT_TYPE MODULE_LIBRARY)

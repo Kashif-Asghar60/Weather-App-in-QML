@@ -1,0 +1,12 @@
+--bare
+-I
+/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_armeabi_v7a-Debug
+-I
+/Users/kashifasghar/Qt/6.8.0/android_armv7/qml
+--resource
+/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_armeabi_v7a-Debug/.qt/rcc/qmake_TestQT.qrc
+--resource
+/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_armeabi_v7a-Debug/.qt/rcc/appTestQT_raw_qml_0.qrc
+/Users/kashifasghar/TestQT/Main.qml
+--json
+/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_armeabi_v7a-Debug/appTestQT_qmllint.json

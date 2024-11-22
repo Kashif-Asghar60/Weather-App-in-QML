@@ -1,0 +1,6 @@
+--resource
+/Users/kashifasghar/TestQT/build/Qt_6_8_0_for_macOS-Debug/.qt/rcc/qmake_TestQT.qrc
+--resource
+/Users/kashifasghar/TestQT/build/Qt_6_8_0_for_macOS-Debug/.qt/rcc/appTestQT_raw_qml_0.qrc
+/qt/qml/TestQT/Main.qml
+/qt/qml/TestQT/file2.qml

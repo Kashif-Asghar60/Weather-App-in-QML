@@ -1,0 +1,11 @@
+--bare
+-I
+/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug
+-I
+/Users/kashifasghar/Qt/6.8.0/android_arm64_v8a/qml
+--resource
+/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/.qt/rcc/qmake_TestQT.qrc
+--resource
+/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/.qt/rcc/appTestQT_raw_qml_0.qrc
+/Users/kashifasghar/TestQT/Main.qml
+/Users/kashifasghar/TestQT/build/test2.qml

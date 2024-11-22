@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "updateGround",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 1536,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 6
+                    }
+                ],
+                "filepath": "/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/GroundEffects.qml"
+            }
+        ],
+        "moduleId": "TestQT(appTestQT)"
+    }
+]

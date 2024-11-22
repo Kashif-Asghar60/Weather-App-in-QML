@@ -1,0 +1,13 @@
+--bare
+-I
+/Users/kashifasghar/TestQT/build/Qt_6_8_0_for_macOS-Debug
+-I
+/Users/kashifasghar/Qt/6.8.0/macos/qml
+--resource
+/Users/kashifasghar/TestQT/build/Qt_6_8_0_for_macOS-Debug/.qt/rcc/qmake_TestQT.qrc
+--resource
+/Users/kashifasghar/TestQT/build/Qt_6_8_0_for_macOS-Debug/.qt/rcc/appTestQT_raw_qml_0.qrc
+/Users/kashifasghar/TestQT/Main.qml
+/Users/kashifasghar/TestQT/file2.qml
+--json
+/Users/kashifasghar/TestQT/build/Qt_6_8_0_for_macOS-Debug/appTestQT_qmllint.json

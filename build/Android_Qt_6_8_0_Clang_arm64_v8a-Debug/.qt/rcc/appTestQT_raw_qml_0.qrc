@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/TestQT/">
+    <file alias="Main.qml">/Users/kashifasghar/TestQT/Main.qml</file>
+    <file alias="build/test2.qml">/Users/kashifasghar/TestQT/build/test2.qml</file>
+    <file alias="dialog.ui">/Users/kashifasghar/TestQT/dialog.ui</file>
+  </qresource>
+</RCC>
+

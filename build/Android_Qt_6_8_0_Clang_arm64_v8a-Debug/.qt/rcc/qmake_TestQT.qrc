@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/TestQT">
+    <file alias="qmldir">/Users/kashifasghar/TestQT/build/Android_Qt_6_8_0_Clang_arm64_v8a-Debug/TestQT/qmldir</file>
+  </qresource>
+</RCC>
+
